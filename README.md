@@ -1,10 +1,12 @@
 # test_oktober
-Test for å klone, pushe og pulle
+Test for Ã¥ klone, pushe og pulle
 
 Datoen i dag er 25. oktober 2021
 
-Må få endra språket inne i Terminal. Hersens spansken...
+MÃ¥ fÃ¥ endra sprÃ¥ket inne i Terminal. Hersens spansken...
 
-Faen alts�.
+Faen altså.
 
-Hva med n�?
+Hva med nå?
+
+Klarte det!
