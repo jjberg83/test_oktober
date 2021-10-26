@@ -10,3 +10,5 @@ Faen altså.
 Hva med nå?
 
 Klarte det!
+
+I will now start writing only with the English language.
